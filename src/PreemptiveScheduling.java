@@ -37,7 +37,6 @@ public class PreemptiveScheduling {
 			
 		}
 		
-	//	quickSort(s,p,0,s.length-1);
 		
 		for(int i=0;i<totaltime;i++)
 		{
